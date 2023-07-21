@@ -4,4 +4,6 @@ Currently studying to sharpen my front-end development skills, I am deeply passi
 
 As an amateur developer 👩🏾‍💻, I enjoy diving into coding challenges and collaborating with like-minded individuals to create innovative solutions. I am always open to new opportunities to collaborate on exciting projects that can make a difference.
 
-If you're seeking a dedicated, adaptable, and ambitious front-end developer who thrives on continuous growth, let's connect! I'm excited to contribute my skills and passion to make a positive impact in the tech world. Together, let's build cutting-edge web experiences! 🤝
+If you're seeking a dedicated, adaptable, and ambitious front-end developer who thrives on continuous growth, let's connect! I'm excited to contribute my skills and passion to make a positive impact in the tech world. Together, let's build cutting-edge web experiences! 💫
+
+## 🤸🏾‍♀️ Hike Enthusiast | 📚 Book Worm | ⚖️ True Crime Junkie | 🌿 Techie 
