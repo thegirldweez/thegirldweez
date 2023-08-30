@@ -6,7 +6,7 @@ As an amateur developer 👩🏾‍💻, I enjoy diving into coding challenges a
 
 If you're seeking a dedicated, adaptable, and ambitious front-end developer who thrives on continuous growth, let's connect! I'm excited to contribute my skills and passion to make a positive impact in the tech world. Together, let's build cutting-edge web experiences! 💫
 
-### 🤸🏾‍♀️ Hike Enthusiast  
-📚 Book Worm  
-⚖️ True Crime Junkie  
-🌿 Techie 
+###🤸🏾‍♀️ Hike Enthusiast  
+###📚 Book Worm  
+###⚖️ True Crime Junkie  
+###🌿 Techie 
