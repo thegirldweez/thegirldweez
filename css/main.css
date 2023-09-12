@@ -17,6 +17,8 @@ html {
   line-height: 1.4;
 }
 
+
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -88,6 +90,7 @@ textarea {
    ========================================================================== */
 .content-wrapper {
   width: 90%;
+  margin: 50px 0;
 }
 
 /* -------- Base header/footer styles -------- */
@@ -105,7 +108,7 @@ header .content-wrapper {
   align-items: center;
   flex-flow: row wrap;
 
-  margin: 0;
+  margin: 15px 0 10px;
 }
 
 figure {
@@ -114,11 +117,11 @@ figure {
 
 .header-divider {
   width: 100%;
-  padding: 10px 0 20px;
 }
 
 header nav {
   width: 60%;
+  margin: 20px 0 15px;
 }
 
 header nav ul {
@@ -138,18 +141,21 @@ footer {
   text-align: center;
 }
 
+
 footer .content-wrapper {
   width: 55%;
-  margin: 50px 0;
+}
+
+footer h4 {
+  margin: 20px 0;
 }
 
 footer p {
   margin: 0;
 }
 
-footer .contact,
 footer .social {
-  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 footer .social-icons {
@@ -165,7 +171,7 @@ footer .social-icons p {
 }
 
 footer .copyright {
-  padding: 20px;
+  padding: 20px 0;
 }
 
 
@@ -179,7 +185,7 @@ footer .copyright {
   display: flex;
   justify-content: center;
 
-  padding: 50px 0;
+  margin: 50px 0;
 }
 
 /* Aside */
@@ -187,32 +193,40 @@ footer .copyright {
 aside {
   display: flex;
   justify-content: center;
-
-  padding: 50px 0;
 }
 
-aside h3 {
+aside .content-wrapper h3 {
   padding: 20px 0;
   margin: 0;
 }
 
-aside p {
-  padding-bottom: 30px;
-  margin: 0;
+aside .content-wrapper p {
+  margin: 0 0 30px;
+}
+
+
+aside .form input[type="text"] {
+  padding: 1em 0;
+  margin: 0 0 20px;
+
+  width: 100%;
+}
+aside .form input[type="button"] {
+  padding: 20px 0;
+  margin: 20px 0 0;
+
+  width: 100%;
 }
 
 /* --- Features --- */
+.features h2 {
+  padding-bottom: 60px;
+  margin: 0;
+}
 
 .features {
   display: flex;
   justify-content: center;
-
-  padding: 50px 0;
-}
-
-.features article {
-  margin: 30px 0;
-  width: 63%;
 }
 
 .features .features-items {
@@ -221,16 +235,21 @@ aside p {
   align-items: flex-start;
   flex-flow: row wrap;
 
+  text-align: center;
+
+  margin: 30px 0;
   width: 100%;
 }
-
-.features h2 {
-  padding-bottom: 60px;
-  margin: 0;
+.features article {
+  width: 63%;
 }
 
 .features p {
   margin: 0;
+}
+
+.features .fontawesome-icon {
+  padding-bottom: 40px;
 }
 
 /* Reviews */
@@ -239,8 +258,12 @@ aside p {
   display: flex;
   justify-content: center;
 }
+.reviews h2 {
+  margin-bottom: 40px;
+}
 
 .reviews h3 {
+  margin: 20px 0;
   width: 55%;
 }
 
@@ -372,13 +395,100 @@ aside p {
    ========================================================================== */
 
 @media screen and (min-width: 768px) {
-
 /*Tablet styles here*/
+.content-wrapper {
+  max-width: 640px;
+  margin: 100px 0;
+} 
 
+/* Header */
+.header-divider {
+  display: none;
 }
 
-@media screen and (min-width: 1200px) {
+header {
+padding: 33px 0;
+}
+header .content-wrapper {
+width: 100%;
+justify-content: space-between;
+}
+header nav {
+  width: 20%;
+}
 
+
+/* Hero */
+.hero-area {
+  margin: 100px 0;
+}
+.hero-area h1 {
+  margin: 0;
+}
+
+/* Aside */
+aside .content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-start;
+  margin: 50px 0;
+}
+aside .form-description,
+aside .form {
+  width: 40%;
+  margin: 0;
+}
+
+/* Features */
+.features .content-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap;
+}
+.features h2 {
+  padding-bottom: 20px;
+}
+.features .features-items {
+  text-align: center;
+  width: 35%;
+}
+
+.features article {
+width: 100%;
+}
+.features .fontawesome-icon {
+  padding-bottom: 30px;
+}
+
+/* Reviews */
+.reviews h2 {
+  width: 80%;
+}
+
+/* Footer */
+footer .content-wrapper {
+  width: 100%;
+}
+
+footer .footer-contact {
+  margin: 0;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+footer .contact,
+footer .social {
+  width: 33%;
+  padding: 0;
+}
+footer .footer-contact h4 {
+  margin: 0 0 40px;
+}
+
+
+
+@media screen and (min-width: 1200px) {
 /*Desktop styles here*/
 
 }
