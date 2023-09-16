@@ -416,6 +416,9 @@ justify-content: space-between;
 header nav {
   width: 20%;
 }
+header nav ul {
+  justify-content: ;
+}
 
 
 /* Hero */
@@ -449,13 +452,18 @@ aside .form {
   padding-bottom: 20px;
 }
 .features .features-items {
-  text-align: center;
-  width: 35%;
+width: 35%;  
+  
 }
 
 .features article {
-width: 100%;
+
+display: flex;
+align-items: center;
+flex-flow: row wrap;
+flex-basis: 100%;
 }
+
 .features .fontawesome-icon {
   padding-bottom: 30px;
 }
@@ -484,6 +492,47 @@ footer .social {
 }
 footer .footer-contact h4 {
   margin: 0 0 40px;
+}
+
+/* ------ About Page ------ */
+
+/* Main */
+.mission-content {
+  display: flex;
+justify-content: space-between;
+flex-flow: row wrap;
+}
+.mission-content p {
+  width: 45%;
+}
+
+.contact-section h2 {
+  width: 80%;
+}
+
+.contact-section .contact-content {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+
+
+}
+
+.contact-section address {
+  font-style: normal;
+  width: 40%;
+}
+
+/* FAQ page */
+
+.faq .content-wrapper {
+  justify-content: space-between;
+}
+.faq-content {
+  flex-basis: 45%;
+}
+.faq h2 {
+  width: 100%;
 }
 
 
