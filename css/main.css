@@ -100,7 +100,7 @@ body {
  
 ul, 
 ol {
- 
+ list-style-type: none;
 }
  
 a {
@@ -135,11 +135,11 @@ p {
 }
  
 img {
- 
+ width: 100%;
 }
  
 figure {
- 
+ margin: 0;
 }
  
 address {
@@ -160,8 +160,8 @@ input {
 header {
   display: flex;
   justify-content: center;
-
-  padding: 15px 0;
+  background: #202322;
+  
 }
 
 header .content-wrapper {
@@ -174,15 +174,11 @@ header .content-wrapper {
 }
 
 header figure {
-  margin: 0;
   width: 60%;
 }
 
-header figure img {
-  width: 100%;
-}
-
 .header-divider {
+  background: #3a3a3a;
   width: 100%;
 }
 
@@ -205,15 +201,16 @@ header nav ul {
 }
 
 header nav ul li {
-  list-style-type: none;
+  text-transform: uppercase;
 }
+
 
 footer {
   display: flex;
   flex-direction: column;
-  
   align-items: center;
   text-align: center;
+  background: #202322;
 }
 
 
@@ -237,7 +234,7 @@ footer .social-icons {
   display: flex;
   justify-content: space-around;
   align-items: center;
-
+  background: #527158;
   font-size: 1.3125rem;
 }
 
@@ -261,8 +258,10 @@ footer .copyright {
 .hero-area {
   display: flex;
   justify-content: center;
+  height: 500px;
 
-  margin: 50px 0;
+  background: url('../img/unplugged-retreat.jpg') center no-repeat;
+  background-size: cover;
 }
 
 /* Aside */
@@ -270,6 +269,8 @@ footer .copyright {
 aside {
   display: flex;
   justify-content: center;
+
+  background: #527158;
 }
 
 aside .content-wrapper h3 {
@@ -281,16 +282,29 @@ aside .content-wrapper p {
   margin: 0 0 30px;
 }
 
+aside .form {
+  margin-top: 30px;
+}
 
 aside .form input[type="text"] {
-  padding: 1em 0;
-  margin: 0 0 20px;
+  box-sizing: border-box;
+  padding: 1em;
+  color: #2a423a;
+  font-style: italic;
 
   width: 100%;
 }
 aside .form input[type="button"] {
   padding: 20px 0;
-  margin: 20px 0 0;
+  margin-top: 20px;
+  background-color: #2a423a;
+  font-family: 'Poppins', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 1.125em;
+  color: #e2e3ed;
+  border: none;
+  text-align: center;
+  text-transform: uppercase;
 
   width: 100%;
 }
@@ -304,11 +318,14 @@ aside .form input[type="button"] {
 .features {
   display: flex;
   justify-content: center;
+
+  background: url('../img/unplugged-retreat-features.jpg') center no-repeat;
+  background-size: cover;
 }
 
 .features .features-items {
   display: flex;
-   align-items: flex-start;
+  align-items: flex-start;
   flex-flow: row wrap;
   text-align: center;
   justify-content: space-evenly;
@@ -333,6 +350,8 @@ aside .form input[type="button"] {
 .reviews {
   display: flex;
   justify-content: center;
+
+  background: #2a423a;
 }
 .reviews h2 {
   line-height: 30px;
@@ -342,9 +361,6 @@ aside .form input[type="button"] {
 .reviews figure {
   width: 100%;
   margin: 0;
-}
-.reviews img {
-  width: 100%;
 }
 
 .reviews h3 {
@@ -359,13 +375,16 @@ aside .form input[type="button"] {
 .mission {
   display: flex;
   justify-content: center;
+
+  background: #527158;
 }
 
 .contact-section {
   display: flex;
   justify-content: center;
-}
 
+  background: #2a423a;
+}
 
 .contact-content p {
   margin: 0;
@@ -375,6 +394,8 @@ aside .form input[type="button"] {
 .faq {
   display: flex;
   justify-content: center;
+
+  background: #527158;
 }
 
 .faq .content-wrapper {
@@ -487,6 +508,7 @@ aside .form input[type="button"] {
 @media screen and (min-width: 768px) {
 
 /* ======== Tablet styles here ======== */
+
 /* Global Styles */
 h1 {
   font-size: 3rem;
@@ -508,9 +530,6 @@ h3 {
 
 /* Header */
 
-header {
-padding: 33px 0;
-}
 header .content-wrapper {
 width: 100%;
 justify-content: space-between;
@@ -535,7 +554,8 @@ header nav {
 
 /* Hero */
 .hero-area {
-  margin: 100px 0;
+  height: 600px;
+  
 }
 .hero-area h1 {
   margin: 0;
@@ -697,9 +717,7 @@ p {
 } 
 
 /* Header */
-header {
-padding: 15px 0;
-}
+
 
 
 /* Hero section */
