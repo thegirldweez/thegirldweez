@@ -671,6 +671,12 @@ flex-flow: row wrap;
   width: 45%;
 }
 
+/* map section */
+
+.map figure {
+  padding-bottom: 45%;
+}
+
 .contact-section h2 {
   width: 80%;
 }
@@ -796,13 +802,15 @@ width: 20%;
 .mission h2 {
   font-size: 3rem;
 }
+
+.map figure {
+  padding-bottom: 37.5%;
+}
+
 .contact-section address {
   width: 35%;
 }
 
-.google-map .content-wrapper {
-  height: 450px;
-}
 
 /* FAQ page */
 .faq h2 {
