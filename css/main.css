@@ -332,6 +332,9 @@ aside .form input[type="button"] {
   width: 100%;
 }
 .features article {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
   margin: 30px 0;
   width: 63%;
 }
@@ -340,9 +343,9 @@ aside .form input[type="button"] {
   margin: 0;
 }
 
-.features .fontawesome-icon {
-  font-size: 3.75rem;
-  padding-bottom: 40px;
+.features i {
+	font-size: 3.75em;
+    margin-bottom: 40px;
 }
 
 /* Reviews */
@@ -607,9 +610,6 @@ flex-flow: row wrap;
 flex-basis: 35%;
 }
 
-.features .fontawesome-icon {
-  padding-bottom: 30px;
-}
 
 /* Reviews */
 .reviews h2 {
