@@ -150,7 +150,7 @@ input {
   font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
  
-   .content-wrapper {
+  .content-wrapper {
   width: 90%;
   margin: 50px 0;
 }
@@ -388,6 +388,22 @@ aside .form input[type="button"] {
 
 .contact-content p {
   margin: 0;
+}
+
+.map figure {
+    width: 100%;
+    height: 0; 
+    padding-bottom: 125%; 
+    overflow: hidden;
+    position: relative;
+}
+ 
+.map iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute; 
+    top: 0; 
+    left: 0; 
 }
 
 /* =========== FAQ page =========== */
@@ -691,6 +707,10 @@ line-height: 15.75px;
 
 
 
+} /* end of tablet styles */
+
+
+
 @media screen and (min-width: 1200px) {
 
 /* ======== Desktop styles here ======== */
@@ -716,15 +736,13 @@ p {
   margin: 100px 0;
 } 
 
-/* Header */
-
-
 
 /* Hero section */
 
 .hero-area h1 {
   width: 70%;
 }
+
 
 /* Aside */
 aside .content-wrapper {
@@ -740,7 +758,7 @@ aside .content-wrapper div {
   justify-content: center;
 }
 .features h2 {
- width: 100%;
+width: 100%;
 }
 .features .features-items {
   justify-content: space-around;
@@ -770,7 +788,7 @@ footer .footer-contact {
 
 footer .contact,
 footer .social {
- width: 20%;
+width: 20%;
 }
 
 /* About page */
@@ -780,6 +798,10 @@ footer .social {
 }
 .contact-section address {
   width: 35%;
+}
+
+.google-map .content-wrapper {
+  height: 450px;
 }
 
 /* FAQ page */
@@ -793,9 +815,8 @@ footer .social {
   line-height: 18px;
 }
 
-
-
 }
+ /* end of desktop styles */
 
 /* ==========================================================================
    Print styles.
