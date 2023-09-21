@@ -234,7 +234,7 @@ footer .social-icons {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background: #527158;
+  
   font-size: 1.3125rem;
 }
 
@@ -242,6 +242,14 @@ footer .social-icons p {
   display: flex;
   justify-content: center;
   align-items: center;
+  
+  background: #527158;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+footer .social-icons i {
+  font-size: 1.5em;
 }
 
 footer .copyright {
