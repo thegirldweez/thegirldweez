@@ -1,4 +1,4 @@
-# 👋🏾 Hi! I'm Dameris, and I'm on a journey to break into the tech industry as a _front-end developer_.
+# 👋🏾 Hi! I'm Dameris, and I'm on a journey to break into the tech industry as a _full-stack developer_.
 
 Currently studying to sharpen my front-end development skills, I am deeply passionate about crafting engaging and user-friendly web experiences that leave a lasting impression. With a solid foundation in programming and a voracious thirst for learning, I am eager to embrace new technologies and push the boundaries of what's possible in web development.
 
