@@ -5,3 +5,6 @@ I enjoy diving into coding challenges and collaborating with like-minded individ
 Feel free to connect with me and let's collaborate!
 
 **🤸🏾‍♀️ Hike Enthusiast | 📚 Book Worm | ⚖️ True Crime Junkie** 
+
+## 👩🏾‍💻 My developer tookbox so far..
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
