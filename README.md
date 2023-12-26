@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋🏾 Hi! I'm Dameris, and I'm on a journey to break into the tech industry as a _full-stack developer_.
 
 Currently studying to sharpen my front and back-end development skills. I enjoy diving into coding challenges and collaborating with like-minded individuals to create engaging and user-friendly web experiences that leave a lasting impression. I am always open to new opportunities to collaborate on exciting projects that will make an impact.
@@ -17,3 +18,21 @@ Feel free to [connect](https://linktr.ee/devdweez) with me and let's collaborate
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+=======
+### Hi there 👋
+
+<!--
+**thegirldweez/thegirldweez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 09f7e2e37fa7aedd6a609b8125ef2975c67799ce
