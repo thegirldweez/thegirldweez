@@ -1,1 +1,0 @@
-Future home of my personal portfolio project. 
