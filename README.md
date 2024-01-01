@@ -1,1 +1,1 @@
-## 👋🏾 Hey! I'm Dameris, and I'm your future favorite _full-stack developer_.
+### Hi there! I'm Dameris, your future favorite _full-stack developer_.
