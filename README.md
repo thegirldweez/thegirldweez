@@ -1,26 +1,28 @@
 ### Hey!! So happy that you could visit. I'm Dameris, your future favorite _full-stack developer_.
 
 I am an enthusiastic tech student learning front and back-end skills to become a full stack developer. I enjoy diving into coding challenges and collaborating with like-minded individuals.
+Full of ideas that I can't wait to build, share and collaborate on. 💫
 
 Also your favorite **🤸🏾‍♀️ Hike Enthusiast | 📚 Book Worm | ⚖️ True Crime Junkie**
 
-Connect with me!  
-🌐 comingsoon.dev  
-🌿 [Linktree](https://linktr.ee/devdweez)  
-📧 devdweez@gmail.com
+---
+
+##### Connect with me!
+
+🌐&nbsp; comingsoon.dev  
+🌿&nbsp; [Linktree](https://linktr.ee/devdweez)  
+📧&nbsp; devdweez@gmail.com
 
 ---
 
-#### 🖥️ Current Endeavors
+##### What am I currently working on?
 
-- Enrolled in a bootcamp - [Skillcrush](https://www.skillcrush.com)
-- Continuing my self-taught learning journey via - Codecademy, Free Code Camp and YouTube!
-
-Full of ideas that I can't wait to build and share. 💫
+- Bootcamp lessons! - [Skillcrush](https://www.skillcrush.com)
+- Continuing my self-taught learning journey via - [Codecademy](https://www.codecademy.com), [Free Code Camp](https://www.freecodecamp.org) and YouTube
 
 ---
 
-#### 🪛 What's in my dev toolbox?
+##### What's in my dev toolbox?
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
