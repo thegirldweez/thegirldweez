@@ -3,7 +3,7 @@
 I am an enthusiastic tech student learning front and back-end skills to become a full stack developer. I enjoy diving into coding challenges and collaborating with like-minded individuals.
 Full of ideas that I can't wait to build, share and collaborate on. 💫
 
-Also your favorite **🤸🏾‍♀️ Hike Enthusiast | 📚 Book Worm | ⚖️ True Crime Junkie**
+**🤸🏾‍♀️ Hike Enthusiast | 📚 Book Worm | ⚖️ True Crime Junkie | ☕ Lover of [Lattes](https://www.buymeacoffee.com/dameris)**
 
 ---
 
