@@ -1,7 +1,8 @@
 ### Hey!! So happy that you could visit. I'm Dameris, your future favorite _full-stack developer_.
 
-<div align="justify">I am an enthusiastic tech student learning front and back-end skills to become a full stack developer. I enjoy diving into coding challenges and collaborating with like-minded individuals.
-Full of ideas that I can't wait to build, share and collaborate on. 💫</div>
+<div align="justify">
+I'm an aspiring web developer with an emphasis on front-end development. My tech education has been a non traditional path of trial, error and self teaching. It's been (and still is) a <span style="font-weight:bold">j o u r n e y</span>. 
+I love diving into coding challenges and collaborating with like minded individuals. The tech landscape is ever evolving and changing right before our eyes. I'm looking forward to being apart of that change. Full of ideas that I can't wait to build and share! 💫</div>
 <p>&nbsp;&nbsp;</p>
 
 
