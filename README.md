@@ -11,16 +11,15 @@ Full of ideas that I can't wait to build, share and collaborate on. 💫</div>
 
 ##### Connect with me!
 
-&nbsp;&nbsp;&nbsp;&nbsp;🌐&nbsp; comingsoon.dev  
-&nbsp;&nbsp;&nbsp;&nbsp;🌿&nbsp; [Linktree](https://linktr.ee/devdweez)  
-&nbsp;&nbsp;&nbsp;&nbsp;📧&nbsp; devdweez@gmail.com
+&nbsp;&nbsp;🌐&nbsp; comingsoon.dev  
+&nbsp;&nbsp;🌿&nbsp; [Linktree](https://linktr.ee/devdweez)  
+&nbsp;&nbsp;📧&nbsp; devdweez@gmail.com
 
----
 
 ##### What am I currently working on?
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/img/right-arrow.png" alt="html" width="20"> Bootcamp lessons! - <a href="https://www.skillcrush.com" target="_blank">Skillcrush</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/img/right-arrow.png" alt="html" width="20"> Continuing my self-taught learning journey via - <a href="https://www.codecademy.com" target="_blank">Codecademy</a>, <a href="https://www.freecodecamp.org" target="_blank">Free Code Camp</a> and YouTube
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/img/arrow.png" alt="html" width="22"> Bootcamp lessons! - <a href="https://www.skillcrush.com" target="_blank">Skillcrush</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/img/arrow.png" alt="html" width="22"> Continuing my self-taught learning journey via - <a href="https://www.codecademy.com" target="_blank">Codecademy</a>, <a href="https://www.freecodecamp.org" target="_blank">Free Code Camp</a> and YouTube
 
 ---
 
