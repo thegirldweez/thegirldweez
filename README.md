@@ -2,7 +2,7 @@
 
 <div align="justify">
 I'm an aspiring web developer with an emphasis on front-end development. My tech education has been a non traditional path of trial, error and self teaching. It's been (and still is) a <strong>j o u r n e y</strong>. 
-I love diving into coding challenges and collaborating with like minded individuals. The tech landscape is ever evolving and changing right before our eyes. I'm looking forward to being apart of that change. Full of ideas that I can't wait to build and share! 💫</div>
+I love diving into coding challenges and collaborating with creatives. The tech landscape is ever evolving and changing right before our eyes. I'm looking forward to being apart of that change. I'm full of ideas that I can't wait to build and share! 💫</div>
 <p>&nbsp;&nbsp;</p>
 
 
